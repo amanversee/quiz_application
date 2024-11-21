@@ -1,3 +1,9 @@
+
+#Name - Aman mourya
+#Enrollment no. - 0176AL2210181
+#College - LNCTE
+#Branch - CSE-AIML
+
 import random
 import sqlite3
 
